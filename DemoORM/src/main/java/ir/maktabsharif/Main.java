@@ -26,6 +26,7 @@ public class Main {
         /*EntityManagerFactory emf = Persistence.createEntityManagerFactory("jdbc-postgres");
         EntityManager em = emf.createEntityManager();
         emf.close();*/
+        System.out.println("test");
 
     }
 
